@@ -1,6 +1,11 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    </head>
+  <body>
 <p> G-9 Emerald </p>
 <p>
-  <table border="10">
+           <table border="10">
            <tr>
                  <th>Student Boys</th>
            </tr><tr>
@@ -34,4 +39,5 @@
                     <td>10. Cj Jumang-it</td>
            </tr>
   </table>
-  
+  </body>
+</html>
