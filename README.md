@@ -9,7 +9,7 @@
 <body>
 
     <header>
-        <h1>Your Website Name</h1>
+        <h1>G-9 Emerald (2023-2024)</h1>
         <nav>
             <ul>
                 <li><a href="#">Home</a></li>
