@@ -8,7 +8,7 @@
 </head>
 <body>
     <header>
-        <h1>Welcome to My Website</h1>
+        <h1>G-9 Emerald (2023-2024)</h1>
     </header>
     <section>
         <p>This is a simple website created using GitHub.</p>
