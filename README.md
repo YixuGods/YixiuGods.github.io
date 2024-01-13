@@ -10,9 +10,10 @@
 
     <header>
         <h1>G-9 Emerald (2023-2024)</h1>
+        <h2>Student name  </h1>
         <nav>
             <ul>
-                <li><a href="#">Home</a></li>
+                <li><a href="#">Boy</a></li>
                 <li><a href="#">About</a></li>
                 <li><a href="#">Contact</a></li>
             </ul>
@@ -21,11 +22,11 @@
 
     <section id="main-content">
         <h2>G-9 Emerald (2023-2024)</h2>
-        <p>This is a simple example website. Customize it according to your needs.</p>
+        <p>This is a simple website From:Lemuel B.pagaora</p>
     </section>
 
     <footer>
-        <p>&copy; From:lemuel B. Pagaora . All rights reserved.</p>
+        <p>&copy; *From:lemuel B. Pagaora . All rights reserved.</p>
     </footer>
 
     <script src="script.js"></script>
