@@ -1,6 +1,6 @@
 <p> G-9 Emerald </p>
 <p>
-  <table border="1">
+  <table border="10">
            <tr>
                  <th>Student Boys</th>
            </tr><tr>
