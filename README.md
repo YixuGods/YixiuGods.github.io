@@ -25,7 +25,7 @@
     </section>
 
     <footer>
-        <p>&copy; 2024 Your Website. All rights reserved.</p>
+        <p>&copy; From:lemuel B. Pagaora . All rights reserved.</p>
     </footer>
 
     <script src="script.js"></script>
