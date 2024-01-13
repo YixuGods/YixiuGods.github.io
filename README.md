@@ -20,7 +20,7 @@
     </header>
 
     <section id="main-content">
-        <h2>Welcome to Your Website</h2>
+        <h2>G-9 Emerald (2023-2024)</h2>
         <p>This is a simple example website. Customize it according to your needs.</p>
     </section>
 
